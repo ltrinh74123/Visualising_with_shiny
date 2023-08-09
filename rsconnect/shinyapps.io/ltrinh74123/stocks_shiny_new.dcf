@@ -1,0 +1,13 @@
+name: stocks_shiny_new
+title: stocks_shiny_new
+username:
+account: ltrinh74123
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9153512
+bundleId: 7271413
+url: https://ltrinh74123.shinyapps.io/stocks_shiny_new/
+when: 1685203266.12636
+lastSyncTime: 1685203266.12888
+asMultiple: FALSE
+asStatic: FALSE
