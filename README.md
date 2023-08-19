@@ -1,6 +1,8 @@
 # Visualising_with_shiny
 
-I was in charge of compiling and sorting my teammates data, then was used to make the dashboard while my teammates ran some ML to produce results.
+When the project started, I took the responsibility of presenting the results in a user-friendly and comprehendible visual. We discussed the potential results that we could collect from applying different forecasting models on time-series data. While I helped write the code from ARMA-GARCH, I was mainly in charge of compiling and sorting the produced in order to make an interactive dashboard using Shiny in R. For not having played with shiny before and having to learn about the UI and server side, I'm pretty proud of how it turned out. 
+
+
 Link to view the dashboard: https://ltrinh74123.shinyapps.io/Modelling_stocks/
 
 Preview:
