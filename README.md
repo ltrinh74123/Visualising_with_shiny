@@ -5,6 +5,7 @@ When the project started, I was responsible for presenting the results in a user
 Things to focus on in the future:
   -  Decrease the input box
   -  Fit the 2 line graphs side by side for better comparison.
+  -  Advance: Add another input option to insert a csv that will be modelled into more results
 
 Link to view the dashboard: https://ltrinh74123.shinyapps.io/Modelling_stocks/
 
